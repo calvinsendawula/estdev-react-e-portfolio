@@ -101,3 +101,16 @@ ul {
   width: 50vh;
   height: 50vh;
 }
+
+.social-links {
+  width: 30vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 5vh;
+}
+
+.social-links img {
+  width: 7vh;
+  height: 7vh;
+}

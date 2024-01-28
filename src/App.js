@@ -2,6 +2,7 @@ import MyName from "./components/my-name";
 import Greeting from "./components/greeting";
 import ShortIntro from "./components/short-intro";
 import SkillsSection from "./components/skills-section";
+import SocialLinks from "./components/social-links";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Greeting />
       <ShortIntro />
       <SkillsSection />
+      <SocialLinks />
     </div>
   );
 }
