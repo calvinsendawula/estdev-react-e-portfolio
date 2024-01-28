@@ -138,3 +138,47 @@ ul {
 .footer-nav-section a:hover {
   color: rgb(209, 209, 209);
 }
+
+/* Services Page */
+.skill-cards div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0 2vh;
+}
+
+.skill-cards div div {
+  display: flex;
+  flex-direction: column;
+  width: 40vh;
+  margin-top: 2vh;
+  padding: 1vh;
+  border-radius: 10%;
+  border: 0.3vh solid white;
+}
+
+.skill-cards div div h3 {
+  display: flex;
+  justify-content: center;
+  margin: 2vh 0;
+  font-size: 3vh;
+}
+
+.skill-cards div div li {
+  list-style-type: none;
+}
+
+.skill-cards div div li:first-child {
+  display: flex;
+  justify-content: center;
+  max-width: 30vh;
+}
+
+.skill-cards div div li:not(:first-child):before {
+  content: url(./assets/right-white.png);
+  margin-right: 1.5vh;
+}
+
+#last-ul{
+  max-width: 30vh;
+}
