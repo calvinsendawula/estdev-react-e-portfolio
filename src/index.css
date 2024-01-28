@@ -114,3 +114,27 @@ ul {
   width: 7vh;
   height: 7vh;
 }
+
+.footer-nav-section {
+  width: 70vh;
+  margin-top: 5vh;
+  border-top: solid 1px white;
+}
+
+.footer-nav {
+  width: 70vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 5vh;
+}
+
+.footer-nav-section a {
+  color: white;
+  text-decoration: none;
+  font-size: 3vh;
+}
+
+.footer-nav-section a:hover {
+  color: rgb(209, 209, 209);
+}
