@@ -1,4 +1,7 @@
-import './App.css';
+import About from "./components/about";
+import Skills from "./components/skills";
+import SocialLinks from "./components/social-links";
+import Navbar from "./components/navbar";
 
 function App() {
   return (
