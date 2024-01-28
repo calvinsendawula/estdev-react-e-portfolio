@@ -1,0 +1,43 @@
+{
+    "profile": [
+        {
+            "first_name": "Calvin",
+            "last_name": "Sendawula",
+            "year_of_study": 4,
+            "degree": "BSc Computer Science",
+            "institution": "Strathmore University",
+            "graduation_year": 2024,
+            "bio": "I am passionate about programming and love solving challenges.",
+            "skills": [
+                "Web Development",
+                "Software Development",
+                "Database Management",
+                "Data Analysis",
+                "Artificial Intelligence",
+                "Machine Learning"
+            ],
+            "profile_picture": "calvin_sendawula.png",
+            "social_links": [
+                {
+                    "name": "LinkedIn",
+                    "link": "https://www.linkedin.com/in/ceejay188/"
+                },
+                {
+                    "name": "GitHub",
+                    "link": "https://github.com/calvinsendawula"
+                },
+                {
+                    "name": "Email",
+                    "link": "calvinsendawula188@gmail.com"
+                }
+            ],
+            "cv": [
+                {
+                    "file": "Sendawula Calvin Resume.pdf",
+                    "save_as": "Sendawula Calvin Resume"
+                }
+            ],
+            "id": 1
+        }
+    ]
+}
