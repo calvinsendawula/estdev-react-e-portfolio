@@ -102,6 +102,10 @@ ul {
   height: 50vh;
 }
 
+.random-joke {
+  max-width: 150vh;
+}
+
 .social-links {
   width: 30vh;
   display: flex;
