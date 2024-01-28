@@ -26,3 +26,78 @@ ul {
   font-size: 3vh;
   margin: 2vh 0;
 }
+
+.main-section {
+  width: 200vh;
+  height: 130vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.skills-section {
+  width: 200vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.bio {
+  width: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+  margin-right: 5vh;
+}
+
+.bio ul {
+  list-style-type: none;
+  margin-left: -5vh;
+}
+
+.bio ul li {
+  display: flex;
+  flex-direction: row;
+}
+
+.bio ul li div {
+  width: 3vh;
+  height: 3vh;
+  margin-right: 1vh;
+  border-radius: 35%;
+  padding: 0 0 5px 5px;
+  border-left: 0.57vh solid white;
+  border-bottom: 0.57vh solid white;
+}
+
+#ul-2 {
+  margin-left: 3vh;
+}
+
+#ul-3 {
+  margin-left: 6vh;
+}
+
+#ul-4 {
+  margin-left: 9vh;
+}
+
+#ul-5 {
+  margin-left: 12vh;
+}
+
+#ul-6 {
+  margin-left: 15vh;
+}
+
+.profile-picture {
+  width: 50vh;
+  height: 50vh;
+  margin-left: 5vh;
+}
+
+.profile-picture img {
+  width: 50vh;
+  height: 50vh;
+}
