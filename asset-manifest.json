@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/estdev-react-e-portfolio/static/css/main.14c8c54f.css",
-    "main.js": "/estdev-react-e-portfolio/static/js/main.13f7e81e.js",
+    "main.js": "/estdev-react-e-portfolio/static/js/main.1e6028f8.js",
     "static/media/Sendawula Calvin Resume.pdf": "/estdev-react-e-portfolio/static/media/Sendawula Calvin Resume.a3ac75b9463295d2bea1.pdf",
     "static/media/calvin_sendawula.png": "/estdev-react-e-portfolio/static/media/calvin_sendawula.c2befc256305841cb5fc.png",
     "index.html": "/estdev-react-e-portfolio/index.html",
     "main.14c8c54f.css.map": "/estdev-react-e-portfolio/static/css/main.14c8c54f.css.map",
-    "main.13f7e81e.js.map": "/estdev-react-e-portfolio/static/js/main.13f7e81e.js.map"
+    "main.1e6028f8.js.map": "/estdev-react-e-portfolio/static/js/main.1e6028f8.js.map"
   },
   "entrypoints": [
     "static/css/main.14c8c54f.css",
-    "static/js/main.13f7e81e.js"
+    "static/js/main.1e6028f8.js"
   ]
 }
