@@ -74,6 +74,7 @@ async function fetchData() {
 A Promise is an object representing the eventual completion or failure of an asynchronous operation.
 
 ```
+// Example
 const myPromise = new Promise((resolve, reject) => {
     setTimeout(() => {
       resolve('Data retrieved');
