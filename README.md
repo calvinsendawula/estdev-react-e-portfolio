@@ -28,7 +28,7 @@ This will invoke setCounter during rendering, not as a callback on click.
 7. What is object deconstruction and how is it connected to React components (example)?
 It is a JavaScript feature that allows you to unpack values from arrays or properties from objects into distinct variables.
 > Example
-> `const Component = ({ title, content }) => {
+`const Component = ({ title, content }) => {
     return (
       <div>
         <h1>{title}</h1>
