@@ -6,6 +6,7 @@ This is an equivalent of my e-portfolio built using react library.
 
 Questions and Answers
 1. What is NPM?
+
 Node Package Manager
 
 2. What is SPA?
