@@ -28,15 +28,16 @@ This will invoke setCounter during rendering, not as a callback on click.
 7. What is object deconstruction and how is it connected to React components (example)?
 It is a JavaScript feature that allows you to unpack values from arrays or properties from objects into distinct variables.
 > Example
-`const Component = ({ title, content }) => {
+```
+const Component = ({ title, content }) => {
     return (
       <div>
         <h1>{title}</h1>
         <p>{content}</p>
       </div>
     );
-  };`
-
+  };
+```
 8. How is it possible to use HTML and JavaScript in the same function (like in a React Component)? What makes it possible under the hood?
 In React, this is done using JSX (JavaScript XML), which allows HTML to be written in JavaScript functions.
 Babel compiles JSX down to React.createElement() calls, which makes it possible to write HTML-like syntax in JavaScript code.
